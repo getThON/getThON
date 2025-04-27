@@ -4,7 +4,9 @@
 - I’m currently learning Offensive security
 - I’m looking to collaborate on Projects and Freelances
 - How to reach me:
+  <br>
   Instagram: @dev_thiagopereira
+  <br>
   LinkedIn: linkedin.com/in/dev-thiagopereira
 - Fun fact: I'am a Bug hunter and Pentester 
 
